@@ -30,7 +30,7 @@ $row        = mysqli_fetch_array($queryf);
 
                 <h4>Buat diary baru...</h4>
 
-                <form action="update_1-diary.php" method="POST">
+                <form action="updated-diary.php" method="POST">
                     <input type="hidden" value="<?php echo $row['id']; ?>" name="id">
                     <div class="form-group">
                         <label for="name">Judul</label>
