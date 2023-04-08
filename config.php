@@ -1,9 +1,13 @@
 <?php
 
+//database host
 $db_host = "localhost";
+//database username
 $db_user = "root";
-$db_pass = "pass";
-$db_name = "db";
+//database password
+$db_pass = "";
+//database name
+$db_name = "personal_diary";
 
 try {
     //create PDO connection 
