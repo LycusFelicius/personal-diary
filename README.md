@@ -7,7 +7,7 @@ personal diary app using Bootstrap, MySQL, PHP, and HTML
 
 ## note
 - default login username is ```lycusfelicius``` with password ```root```
-- register new user by open ```https://yourdomain.com/personal-diary/register.php``` after logging in
+- register new user by open ```https://yourdomain.com/personal-diary/register.php``` manually after logging in
 
 ## future ideas
 - [ ] create text editor for diary entry (i will likely use ckeditor for the future release)
